@@ -26,7 +26,7 @@ The three main steps to completing this project are as follows:
 
 ### Compile, Train and Evaluate the Model
 
-- For this neural network model, I chose to use 3 hidden layers with 80, 30, and 15 nodes respectively. Sigmoid and Relu activation were used. 
+- For the third and final iteration of the neural network model, I chose to use 3 hidden layers with 80, 30, and 15 nodes respectively. Sigmoid and Relu activation were used. 
 
 ![Nodes ](Resources/Nodes.png) 
 
